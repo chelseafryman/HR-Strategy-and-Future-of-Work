@@ -22,6 +22,8 @@ This is a collection of my writing and perspectives on the issues shaping organi
 
 ### Culture & Employee Experience
 
+[Culture Is Built on Tuesday Afternoons](culture-is-built-on-tuesday-afternoons.md)
+
 ---
 
 **About me:** Senior HR Executive | Organizational Design | Workforce Strategy | HR Transformation | Future-of-Work & AI
