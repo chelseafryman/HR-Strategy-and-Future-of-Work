@@ -16,6 +16,8 @@ This is a collection of my writing and perspectives on the issues shaping organi
 
 ### HR Strategy & Transformation
 
+[What Mount Sherman Taught Me About Organizational Change](mount-sherman-and-change-management.md)
+
 ### Culture & Employee Experience
 
 ---
