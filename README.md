@@ -10,6 +10,8 @@ This is a collection of my writing and perspectives on the issues shaping organi
 
 ### Organizational Design & Workforce Strategy
 
+- [Maybe You Don't Have a People Problem. Maybe You Have a Work Design Problem.](people-problem-or-work-design-problem.md)
+  
 ### Leadership & Succession
 
 - [Are We Preparing Successors for Jobs That Won't Exist?](succession-planning-for-jobs-that-dont-exist-yet.md)
