@@ -12,8 +12,9 @@ This is a collection of my writing and perspectives on the issues shaping organi
 
 ### Leadership & Succession
 
-[Are We Preparing Successors for Jobs That Won't Exist?](succession-planning-for-jobs-that-dont-exist-yet.md)
-
+- [Are We Preparing Successors for Jobs That Won't Exist?](succession-planning-for-jobs-that-dont-exist-yet.md)
+- [Are We Overvaluing Readiness and Undervaluing Trajectory?](readiness-vs-trajectory.md)
+  
 ### AI & Future-of-Work
 
 ### HR Strategy & Transformation
