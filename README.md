@@ -17,6 +17,8 @@ This is a collection of my writing and perspectives on the issues shaping organi
   
 ### AI & Future-of-Work
 
+- [What If AI Creates Capacity, Not Just Reduces Headcount?](ai-capacity-not-just-headcount.md)
+  
 ### HR Strategy & Transformation
 
 - [What Mount Sherman Taught Me About Organizational Change](mount-sherman-and-change-management.md)
