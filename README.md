@@ -25,6 +25,7 @@ This is a collection of my writing and perspectives on the issues shaping organi
 
 - [What Mount Sherman Taught Me About Organizational Change](mount-sherman-and-change-management.md)
 - [HR Doesn't Have a Value Problem. It Has a Translation Problem.](hr-value-translation-problem.md)
+- [Strategic HR Isn't About Bringing Everything to the Table](strategic-hr-executive-partnership.md)
 
 ### Culture & Employee Experience
 
